@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Selvamani
+- ![elvamanit2](https://github.com/Selvamanit2/Selvamanit2/blob/main/WhatsApp%20Image%202025-02-22%20at%201.53.33%20PM.jpeg?raw=true)
 - 👀 I’m interested in Data analysis1
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on coder amd analysis
