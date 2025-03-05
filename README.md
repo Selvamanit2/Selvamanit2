@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Selvamani
- ![selvamanit2](https://github.com/Selvamanit2/Selvamanit2/blob/main/WhatsApp%20Image%202025-03-02%20at%2012.32.54%20PM.jpeg)
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on coder amd analysis
-- 📫 How to reach me @blank_life_zero insta
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm [Selva Mani] 
+🔹 Junior Data Analyst | SQL | Python | Excel | Power BI
+📊 Passionate about data-driven insights & problem-solving.
+📈 Skilled in data cleaning, visualization, and automation.
+🛠️ Working with Pandas, SQL, Power BI, and Excel.
+🚀 Currently seeking a full-time Data Analyst role.
+📂 Check out my projects on GitHub!
+📚 Always learning new data analysis techniques.
+💬 Open to collaboration & networking.
+📫 Let’s connect: [LinkedIn Profile]
 
 
 Selvamanit2/Selvamanit2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
