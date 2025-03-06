@@ -3,7 +3,6 @@
 - 🔹 Junior Data Analyst | SQL | Python | Excel | Power BI
 - 📊 Passionate about data-driven insights & problem-solving.
 - 📈 Skilled in data cleaning, visualization, and automation.
-- 🛠️ Working with Pandas, SQL, Power BI, and Excel.
 - 🚀 Currently seeking a full-time Data Analyst role.
 - 📂 Check out my projects on GitHub!
 - 📚 Always learning new data analysis techniques.
