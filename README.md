@@ -5,7 +5,6 @@
 - 📈 Skilled in data cleaning, visualization, and automation.
 - 🚀 Currently seeking a full-time Data Analyst role.
 - 📂 Check out my projects on GitHub!
-- 📚 Always learning new data analysis techniques.
 - 💬 Open to collaboration & networking.
 - 📫 Let’s connect: [https://www.linkedin.com/in/selvamani07/]
 
