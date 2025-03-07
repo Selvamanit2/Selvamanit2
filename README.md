@@ -1,5 +1,5 @@
-- 👋 Hi, I'm [Selva Mani]
--    ![selvamani](WhatsApp Image 2025-03-02 at 12.32.54 PM.jpeg)
+- 👋 Hi, I'm Selva Mani
+-  ![selvamani](https://github.com/Selvamanit2/Selvamanit2/blob/main/WhatsApp%20Image%202025-03-02%20at%2012.32.54%20PM.jpeg?raw=true)
 - 🔹 Junior Data Analyst | SQL | Python | Excel | Power BI
 - 📊 Passionate about data-driven insights & problem-solving.
 - 📈 Skilled in data cleaning, visualization, and automation.
