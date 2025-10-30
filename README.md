@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Selva Mani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1ED760&center=true&vCenter=true&width=500&lines=Data+Analyst;Excel+%7C+Power+BI+%7C+Python;SQL+%7C+Machine+Learning;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
-
+ # Welcome to My GitHub Portfolio
+![selva mani]()
 ---
 
 ### **About Me**
