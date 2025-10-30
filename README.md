@@ -2,8 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1ED760&center=true&vCenter=true&width=500&lines=Data+Analyst;Excel+%7C+Power+BI+%7C+Python;SQL+%7C+Machine+Learning;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
- # Welcome to My GitHub Portfolio
-![selva mani]()
+ <h1>Welcome to My GitHub Portfolio</h1>
+ 
+ ![Selva mani](https://github.com/Selvamanit2/Selvamanit2/blob/main/WhatsApp%20Image%202025-10-30%20at%201.19.53%20PM.jpeg)
+
 ---
 
 ### **About Me**
@@ -25,13 +27,26 @@
 
 ---
 
-### **GitHub Stats**
+### **My Project**
+- - ### [*Excel* Mini_Projects ](https://github.com/Selvamanit2/Mini_Projects/tree/main/1.Excel).
+### 🔹 [Excel Capstone Project – Healthcare Data Insights](https://github.com/Selvamanit2/Capstone_Projects/tree/main/1.Excel%20capstone%20project).
+> Advanced cleaning, pivot tables, and dashboards for healthcare data trends.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" />
-</p>
+- - ### [*Power BI* Mini_Projects ](https://github.com/Selvamanit2/Mini_Projects/tree/main/2.Power%20BI).
+### 🔹 [Power BI Capstone Project – Bank Loan Performance](https://drive.google.com/file/d/1QuTT-5FdMgPHyZqTJpNvmk2aCraYTlR5/view?usp=drive_link).
+> Visual analytics, KPIs, and interactive dashboards to assess loan KPIs.
 
+- - ### [*MYSQL* Mini_Projects ](https://github.com/Selvamanit2/Mini_Projects/tree/main/3.MYSQL).
+### 🔹 [MySQL Capstone Project – E-Commerce Churn Analysis](https://github.com/Selvamanit2/Capstone_Projects/tree/main/3.MYQL%20copstone%20project).
+> Query optimization, joins, and customer churn segmentation.
+
+- - ### [*Python* Mini_Projects ](https://github.com/Selvamanit2/Mini_Projects/tree/main/4.Python).
+### 🔹 [Python Capstone Project – Marketing Campaign Insights](https://github.com/Selvamanit2/Capstone_Projects/tree/main/4.Python%20capstone%20project).
+> Exploratory data analysis, plots, trends, and recommendations.
+
+- - ### [*Machine Learning* Mini_Projects ](https://github.com/Selvamanit2/Mini_Projects/tree/main/5.Machine%20Learning).
+### 🔹 [Machine Learning Capstone Project – Credit Card Fraud Detection](https://github.com/Selvamanit2/Capstone_Projects/tree/main/5.%20Machine%20Learning%20capstone%20%20project).
+> Classification models to detect fraud, feature engineering, and evaluation.
 ---
 
 ### **Connect With Me**
@@ -45,5 +60,3 @@
   </a>
 </p>
 
-
-Excel mini project
