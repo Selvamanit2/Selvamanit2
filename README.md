@@ -62,3 +62,8 @@
 
 ### ✨ Fun Fact
 > “Without data, you're just another person with an opinion.” — W. Edwards Deming
+
+<!-- Animated Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0078FF&height=100&section=footer" />
+</p>
